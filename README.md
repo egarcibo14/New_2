@@ -10,6 +10,7 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
 
 ## Features
 
+<font color="red">This text is red!</font>
  - supports dark mode on macOS Mojave
  - optional sidebar
  - MathJax support
