@@ -1,6 +1,5 @@
 ---
 title: "About"
- |
   ![]([logo.jpg](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)){width=1in} 
   ![]([logo.jpg](https://www.eduacademy.at/zgis/pluginfile.php/3623/mod_resource/content/1/PLUS%20Logo%20englisch%20Farbe.jpg)){width=1in} 
 permalink: "/Home/"
@@ -14,22 +13,22 @@ layout: page
 # Emma Garcia Boadas
 ## PERSONAL MOTIVATION 
 -	Curios sick learner
+-	Great program for professional skill development (summer schools, conferences, internship)
 -	International environment 
 -	Nature lover
--	Crucial, map generation and data analysis skill" for any scientific career"
--	Gread program  for profetionl skill development (summer schools, conferences, internship)
 	
 ###### Objectives
 -	Learn new skills
 -	Get involved in geo – related research projects
--	Focus on solving society needs
 -	Improving the scientific writing skill
+-	Map generation and data analysis skill" for any scientific career"
 
 ###### Interests
--	Do user friendly, maps and data bases
--	Bee capable of extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
-- Integration of different techniques
-
+- Geo- projects 
+- Integration of remote sensing and in situ measurements. 
+- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
+- Do user friendly: maps and data bases
+- Integrate extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
 
 ## OUTLOOK
 -	Working with geo – related projects
