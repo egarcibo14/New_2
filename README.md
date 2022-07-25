@@ -10,17 +10,7 @@ layout: page
 
 ![This is an image](/images/cde_titelbild.jpg) 
 
-<div style="width:60px ; height:60px"> ![This is an image](/images/cde_titelbild.png?raw=true "This is an image") <div>
 
-	
-<div style="width:60px ; height:60px"> 
-![This is an image](/images/cde_titelbild.png?raw=true "This is an image")
-<div>	
-	
-<div style="width:60px ; height:60px"> 
-	![This is an image](/images/cde_titelbild.png?raw=true "This is an image") 
-	<div>
-	
 	
 <img src="/images/cde_titelbild.png" alt="/images/cde_titelbild.png" width="100"/>
 <img src="/images/cde_titelbild.png" alt="cde_titelbild" style="width:200px;"/>
