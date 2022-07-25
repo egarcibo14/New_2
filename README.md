@@ -8,8 +8,8 @@ layout: page
 
 ![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
 ![This is an image](/images/cde_titelbild.jpg) 
-<img src="/images/cde_titelbild.jpg" alt="/images/cde_titelbild.jpg" width="100"/>
-<img src="/images/cde_titelbild.jpg" alt="cde_titelbild" style="width:200px;"/>
+<img src="/images/cde_titelbild.png" alt="/images/cde_titelbild.jpg" width="100"/>
+<img src="/images/cde_titelbild.png" alt="cde_titelbild" style="width:200px;"/>
 <img src="[https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg]"  width="300" height="300">
 # Emma Garcia Boadas
 ## PERSONAL MOTIVATION 
