@@ -4,6 +4,98 @@ permalink: "/Home/"
 layout: page
 ---
 ############################################
+
+# Copernicus Master in Digital Earth (EMJMD)
+![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
+![This is an image](https://www.eduacademy.at/zgis/pluginfile.php/3623/mod_resource/content/1/PLUS%20Logo%20englisch%20Farbe.jpg)
+# Emma Garcia Boadas
+## PERSONAL MOTIVATION 
+-	Curios sick learner
+-	International environment 
+-	Nature lover
+-	Crucial, map generation and data analysis skill" for any scientific career"
+-	Gread program  for profetionl skill development (summer schools, conferences, internship)
+	
+###### Objectives
+-	Learn new skills
+-	Get involved in geo – related research projects
+-	Focus on solving society needs
+-	Improving the scientific writing skill
+
+###### Interests
+-	Do user friendly, maps and data bases
+-	Bee capable of extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
+- Integration of different techniques
+
+
+## OUTLOOK
+-	Working with geo – related projects
+-	Continue in academia?
+-	Contribution to solving society necessities
+
+## BACKGROUND
+07/2020 – 11/2021 – Barcelona, Spain
+JUNIOR INSAR ENGINEER, REMOTE SENSING GEOLOGIST – SIXENSE GROUP
+Interpretation of InSAR data and optical images in operational projects for clients in the infrastructure and mining sector.
+SAR Interferometry (PSI) processing with ATLAS software in monitoring projects. Multi-sensor (Sentinel-1 A/B, TerraSARX)
+processing for land surface displacement monitoring. Reporting of operational projects for customers in
+infrastructure and mining sectors. Postprocessing of InSAR data results.
+
+01/2020 – 07/2020 – Girona, Spain
+GEOLOGIST – GEOSERVEI PROJECTES I GESTIÓ AMBIENTAL S L
+Hydrogeology and edaphology mapping, GIS consultant, geotechnical projects.
+
+06/2019 – 08/2019 – Barcelona, Spain
+TECHNICAL REMOTE SENSING GEOLOGIST – LITHICA SCCL/ CONSEJO SUPERIOR DE INVESTIGACIÓNES CIENTIFICAS
+(CSIC)
+GEO3BCN Geociencias Barcelona-CSIC
+Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic,
+hyperspectral).
+
+10/2017 – 05/2019 – Barcelona, Spain
+TECHNICAL REMOTE SENSING GEOLOGIST – DARES TECHNOLOGY
+Optical image processing (Sentinel-2, ASTER, Landsat-8) and land mapping. Interpretation of optical images.
+Interpretation of the combination of radar and optical results in operational projects for clients in the mining sector.
+SAR Interferometry (PSI) processing with (CPT) software. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,
+Radarsat-2.) processing for land surface displacement monitoring. Management of operational projects for customers in
+the oil & gas, mining, and infrastructure sectors. Post-processing and interpretation of InSAR data results.
+
+10/2016 – 07/2017 – Barcelona, Spain
+INTERNSHIP – CONSEJO SUPERIOR DE INVESTIGACIÓNES CIENTIFICAS (CSIC)
+GEO3BCN Geociencias Barcelona-CSIC
+Department: Environmental Geology and Geohazards
+Research Group: Environmental Changes in the Geological Record
+Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final
+project was to integrate optical multispectral data and sampling data gathered on the island.
+
+06/2016 – 08/2016 – Reykjavík, Iceland
+UNIVERSITY RESEARCH ASSISTANT – UNIVERSITY OF ICELAND - HÁSKÓLI ÍSLANDS
+Research Group: Volcanology
+Faculty of Earth Science
+Technical collaboration in remote sensing research. Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
+
+
+
+EDUCATION AND TRAINING
+
+09/2012 – 08/2017 – Barcelona, Spain
+GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona
+Degree in Geologi interested on Remote Sensing techniques.
+
+
+2015 – 2016 – Reykjavik, Iceland
+ERASMUS – Háskóli Íslands
+
+
+PUBLICATIONS
+
+'Machine Learning For Mineral Identification And Ore Estimation From Hyperspectral Imagery In Tin–Tungsten
+Deposits: Simulation Under Indoor Conditions'
+2021
+Lobo, A.; Garcia, E.; Barroso, G.; Martí, D.; Fernandez-Turiel, J.-L.; Ibáñez-Insa, J. Machine Learning for Mineral
+Identification and Ore Estimation from Hyperspectral Imagery in Tin–Tungsten Deposits: Simulation under Indoor
+Conditions. Remote Sens. 2021, 13, 3258. https://doi.org/10.3390/rs13163258
+
 ##############################################################
 ## Installation
 
