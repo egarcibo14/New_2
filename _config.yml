@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Home", icon: home}
-  - {file: "https://egarcibo14.github.io/webmaster/Emma.pdf", title: "CV", url: "https://github.com/egarcibo14/webmaster/blob/master/Emma.pdf"}
+  - {file: "https://egarcibo14.github.io/webmaster/Emma.pdf", title: "CV", url: "https://egarcibo14.github.io/webmaster/Emma.pdf"}
   - {file: "index.html", title: "About me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
