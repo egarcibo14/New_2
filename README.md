@@ -7,7 +7,7 @@ layout: page
 # Copernicus Master in Digital Earth (EMJMD)
 
 ![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
-![This is an image](/images/cde_titelbild.jpg)
+![This is an image](/images/cde_titelbild.jpg =x250)
 # Emma Garcia Boadas
 ## PERSONAL MOTIVATION 
 -	Curios sick learner
