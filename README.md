@@ -8,7 +8,7 @@ layout: page
 
 ![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
 ![This is an image](/images/cde_titelbild.jpg)
-<img src="/images/cde_titelbild.jpg" alt="/images/cde_titelbild" width="200"/>
+<img src="/images/cde_titelbild.jpg" alt="/images/cde_titelbild.jpg" width="200"/>
 <img src="/images/cde_titelbild.jpg" alt="cde_titelbild" style="width:200px;"/>
 # Emma Garcia Boadas
 ## PERSONAL MOTIVATION 
