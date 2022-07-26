@@ -11,7 +11,8 @@ layout: page
 ![This is an image](/images/cde_titelbild.jpg) 
 
 
-	
+![This is an image](/images/cde_titelbi<ld.png){width='100px'}
+
 <img src="./images/cde_titelbild.png" alt="/images/cde_titelbild.png" width="100" height=300>
 
 
