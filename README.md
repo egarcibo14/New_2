@@ -1,3 +1,4 @@
+![This is an image](/images/ErasmusCopernicusLogo.png) 
 ---
 title: "About me"
 permalink: "/About me/"
@@ -9,6 +10,8 @@ layout: page
 ![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
 
 ![This is an image](/images/cde_titelbild.jpg) 
+
+
 
 
 ![This is an image](/images/cde_titelbi<ld.png){width='100px'}
