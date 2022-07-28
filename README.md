@@ -1,29 +1,13 @@
+![This is an image](/images/ErasmusCopernicusLogo.png) 
+
 ---
 title: "About me"
 permalink: "/About me/"
 layout: page
 ---
 
-![This is an image](/images/ErasmusCopernicusLogo.png) 
-
 # Copernicus Master in Digital Earth (EMJMD)
 
-![This is an image](https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg)
-
-![This is an image](/images/cde_titelbild.jpg) 
-
-
-
-
-![This is an image](/images/cde_titelbi<ld.png){width='100px'}
-
-<img src="./images/cde_titelbild.png" alt="/images/cde_titelbild.png" width="100" height=300>
-
-
-
-<img src="/images/cde_titelbild.png" alt="cde_titelbild" style="width:200px;"/>
-<img src="[https://wayback.archive-it.org/12090/20210123162101mp_/https://eacea.ec.europa.eu/sites/eacea-site/files/logosbeneficaireserasmusleft_withthesupport-01_0.jpg]">
-# Emma Garcia Boadas
 ## PERSONAL MOTIVATION 
 -	Curios sick learner
 -	Great program for professional skill development (summer schools, conferences, internship)
