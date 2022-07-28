@@ -14,18 +14,18 @@ layout: page
 -	International environment 
 -	Nature lover
 	
-###### Objectives
--	Learn new skills
--	Get involved in geo – related research projects
--	Improving the scientific writing skill
--	Map generation and data analysis skill" for any scientific career"
+###### 1. Objectives
+	-	Learn new skills
+	-	Get involved in geo – related research projects
+	-	Improving the scientific writing skill
+	-	Map generation and data analysis skill" for any scientific career"
 
-###### Interests
-- Geo- projects 
-- Integration of remote sensing and in situ measurements. 
-- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
-- Do user friendly: maps and data bases
-- Integrate extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
+###### 2. Interests
+	- Geo- projects 
+	- Integration of remote sensing and in situ measurements. 
+	- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
+	- Do user friendly: maps and data bases
+	- Integrate extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
 
 ## OUTLOOK
 -	Working with geo – related projects
@@ -33,8 +33,14 @@ layout: page
 -	Contribution to solving society necessities
 
 ## BACKGROUND
-07/2020 – 11/2021 – Barcelona, Spain
-JUNIOR INSAR ENGINEER, REMOTE SENSING GEOLOGIST – SIXENSE GROUP
+
+| EXPERIENCE               | PLACE                                                    |
+|--------------------------|----------------------------------------------------------|
+| JUNIOR INSAR ENGINEER    | Sixense Iberia, Dares Technology                         |
+| REMOTE SENSING GEOLOGIST | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology |
+| GEOLOGIST                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
+
+
 Interpretation of InSAR data and optical images in operational projects for clients in the infrastructure and mining sector.
 SAR Interferometry (PSI) processing with ATLAS software in monitoring projects. Multi-sensor (Sentinel-1 A/B, TerraSARX)
 processing for land surface displacement monitoring. Reporting of operational projects for customers in
