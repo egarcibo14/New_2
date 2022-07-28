@@ -41,10 +41,13 @@ layout: page
 | GEOLOGIST                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
 
 
-Interpretation of InSAR data and optical images in operational projects for clients in the infrastructure and mining sector.
-SAR Interferometry (PSI) processing with ATLAS software in monitoring projects. Multi-sensor (Sentinel-1 A/B, TerraSARX)
-processing for land surface displacement monitoring. Reporting of operational projects for customers in
-infrastructure and mining sectors. Postprocessing of InSAR data results.
+- JUNIOR INSAR ENGINEER: Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing.Postprocessing of InSAR data results. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). Reporting of operational projects for customers in infrastructure and mining sectors. 
+
+- REMOTE SENSING GEOLOGIST: 
+	- Optical image processing (Sentinel-2, ASTER, Landsat-8) and land mapping. Interpretation of optical images. Interpretation of the combination of radar and optical results.
+	-Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic, hyperspectral).
+	-Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final project was to integrate optical multispectral data and sampling data gathered on the island.
+	-Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
 
 01/2020 – 07/2020 – Girona, Spain
 GEOLOGIST – GEOSERVEI PROJECTES I GESTIÓ AMBIENTAL S L
