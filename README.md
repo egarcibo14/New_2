@@ -1,9 +1,10 @@
-![This is an image](/images/ErasmusCopernicusLogo.png) 
 ---
 title: "About me"
 permalink: "/About me/"
 layout: page
 ---
+
+![This is an image](/images/ErasmusCopernicusLogo.png) 
 
 # Copernicus Master in Digital Earth (EMJMD)
 
