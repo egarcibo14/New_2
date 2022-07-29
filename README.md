@@ -63,23 +63,6 @@ GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli 
 	- Assistant in water and soil remediation projects
 
 
-
-
-
-
-
-
-EDUCATION AND TRAINING
-
-09/2012 – 08/2017 – Barcelona, Spain
-GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona
-Degree in Geologi interested on Remote Sensing techniques.
-
-
-2015 – 2016 – Reykjavik, Iceland
-ERASMUS – Háskóli Íslands
-
-
 PUBLICATIONS
 
 'Machine Learning For Mineral Identification And Ore Estimation From Hyperspectral Imagery In Tin–Tungsten
@@ -88,6 +71,21 @@ Deposits: Simulation Under Indoor Conditions'
 Lobo, A.; Garcia, E.; Barroso, G.; Martí, D.; Fernandez-Turiel, J.-L.; Ibáñez-Insa, J. Machine Learning for Mineral
 Identification and Ore Estimation from Hyperspectral Imagery in Tin–Tungsten Deposits: Simulation under Indoor
 Conditions. Remote Sens. 2021, 13, 3258. https://doi.org/10.3390/rs13163258
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##############################################################
 ## Installation
