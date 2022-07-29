@@ -8,54 +8,51 @@ layout: page
 
 # Copernicus Master in Digital Earth (EMJMD)
 
-## PERSONAL MOTIVATION 
+## Personal Motivation 
 -	Curios sick learner
 -	Great program for professional skill development (summer schools, conferences, internship)
 -	International environment 
 -	Nature lover
 	
-###### 1. Objectives
-	-	Learn new skills
-	-	Get involved in geo – related research projects
-	-	Improving the scientific writing skill
-	-	Map generation and data analysis skill" for any scientific career"
+#### 1. Objectives
+	- Learn new skills
+	- Get involved in geo – related research projects
+	- Improving the scientific writing skill
+	- Map generation and data analysis skill" for any scientific career"
 
-###### 2. Interests
+#### 2. Interests
 	- Geo- projects 
 	- Integration of remote sensing and in situ measurements. 
 	- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
 	- Do user friendly: maps and data bases
 	- Integrate extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
 
-## OUTLOOK
--	Working with geo – related projects
--	Continue in academia?
--	Contribution to solving society necessities
 
-## BACKGROUND
+
+## Background
 
 GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli Íslands
 - Degree in Geologi interested on Remote Sensing techniques.
 
 
-| EXPERIENCE               | PLACE                                                    |
-|--------------------------|----------------------------------------------------------|
-| JUNIOR INSAR ENGINEER    | Sixense Iberia, Dares Technology                         |
-| REMOTE SENSING GEOLOGIST | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology |
-| GEOLOGIST                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
+| Experience                      | Place                                                    |
+|---------------------------------|----------------------------------------------------------|
+| Junior InSAR Enginier           | Sixense Iberia, Dares Technology                         |
+| Junior Remote Sensing Geologist | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology |
+| Junior Geologist                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
 
 
-- JUNIOR INSAR ENGINEER: 
+- Junior InSAR Enginier: 
 	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing and postprocessing. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
 	- Reporting of operational projects for customers. 
 
-- REMOTE SENSING GEOLOGIST: 
+- Junior Remote Sensing Geologist: 
 	- Optical image processing (Sentinel-2, ASTER, Landsat-8).
 	- Mining sector, ore estimation with portable laboratory cameras, images (optic, hyperspectral).
 	- Integration optical multispectral data and sampling data gathered on the earth surface.
 	- Working with the GPS points position taken on the monitoring of the fissure lava eruption.
 
-- GEOLOGIST:
+- Junior Geologist:
 	- Hydrogeology and edaphology mapping.
 	- GIS consultant.
 	- Assistant geotechnical projects.
@@ -73,7 +70,10 @@ Identification and Ore Estimation from Hyperspectral Imagery in Tin–Tungsten D
 Conditions. Remote Sens. 2021, 13, 3258. https://doi.org/10.3390/rs13163258
 
 
-
+## Outlook
+-	Working with geo – related projects
+-	Continue in academia?
+-	Contribution to solving society necessities
 
 
 
