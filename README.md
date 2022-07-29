@@ -35,7 +35,7 @@ layout: page
 ## BACKGROUND
 
 GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli Íslands
-Degree in Geologi interested on Remote Sensing techniques.
+- Degree in Geologi interested on Remote Sensing techniques.
 
 
 | EXPERIENCE               | PLACE                                                    |
@@ -46,14 +46,14 @@ Degree in Geologi interested on Remote Sensing techniques.
 
 
 - JUNIOR INSAR ENGINEER: 
-	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing.Postprocessing of InSAR data results. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
+	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing and postprocessing. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
 	- Reporting of operational projects for customers. 
 
 - REMOTE SENSING GEOLOGIST: 
-	- Optical image processing (Sentinel-2, ASTER, Landsat-8) and land mapping. Interpretation of optical images. Interpretation of the combination of radar and optical results.
-	- Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic, hyperspectral).
-	- Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final project was to integrate optical multispectral data and sampling data gathered on the island.
-	- Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
+	- Optical image processing (Sentinel-2, ASTER, Landsat-8).
+	- Mining sector, ore estimation with portable laboratory cameras, images (optic, hyperspectral).
+	- Integration optical multispectral data and sampling data gathered on the earth surface.
+	- Working with the GPS points position taken on the monitoring of the fissure lava eruption.
 
 - GEOLOGIST:
 	- Hydrogeology and edaphology mapping.
