@@ -34,6 +34,10 @@ layout: page
 
 ## BACKGROUND
 
+GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli Íslands
+Degree in Geologi interested on Remote Sensing techniques.
+
+
 | EXPERIENCE               | PLACE                                                    |
 |--------------------------|----------------------------------------------------------|
 | JUNIOR INSAR ENGINEER    | Sixense Iberia, Dares Technology                         |
@@ -41,46 +45,27 @@ layout: page
 | GEOLOGIST                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
 
 
-- JUNIOR INSAR ENGINEER: Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing.Postprocessing of InSAR data results. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). Reporting of operational projects for customers in infrastructure and mining sectors. 
+- JUNIOR INSAR ENGINEER: 
+	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing.Postprocessing of InSAR data results. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
+	- Reporting of operational projects for customers. 
 
 - REMOTE SENSING GEOLOGIST: 
 	- Optical image processing (Sentinel-2, ASTER, Landsat-8) and land mapping. Interpretation of optical images. Interpretation of the combination of radar and optical results.
-	-Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic, hyperspectral).
-	-Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final project was to integrate optical multispectral data and sampling data gathered on the island.
-	-Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
+	- Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic, hyperspectral).
+	- Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final project was to integrate optical multispectral data and sampling data gathered on the island.
+	- Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
 
-01/2020 – 07/2020 – Girona, Spain
-GEOLOGIST – GEOSERVEI PROJECTES I GESTIÓ AMBIENTAL S L
-Hydrogeology and edaphology mapping, GIS consultant, geotechnical projects.
+- GEOLOGIST:
+	- Hydrogeology and edaphology mapping.
+	- GIS consultant.
+	- Assistant geotechnical projects.
+	- Sampling in the mining sector
+	- Assistant in water and soil remediation projects
 
-06/2019 – 08/2019 – Barcelona, Spain
-TECHNICAL REMOTE SENSING GEOLOGIST – LITHICA SCCL/ CONSEJO SUPERIOR DE INVESTIGACIÓNES CIENTIFICAS
-(CSIC)
-GEO3BCN Geociencias Barcelona-CSIC
-Field exploration in the mining sector. Develop ore estimation with portable laboratory cameras, images (optic,
-hyperspectral).
 
-10/2017 – 05/2019 – Barcelona, Spain
-TECHNICAL REMOTE SENSING GEOLOGIST – DARES TECHNOLOGY
-Optical image processing (Sentinel-2, ASTER, Landsat-8) and land mapping. Interpretation of optical images.
-Interpretation of the combination of radar and optical results in operational projects for clients in the mining sector.
-SAR Interferometry (PSI) processing with (CPT) software. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,
-Radarsat-2.) processing for land surface displacement monitoring. Management of operational projects for customers in
-the oil & gas, mining, and infrastructure sectors. Post-processing and interpretation of InSAR data results.
 
-10/2016 – 07/2017 – Barcelona, Spain
-INTERNSHIP – CONSEJO SUPERIOR DE INVESTIGACIÓNES CIENTIFICAS (CSIC)
-GEO3BCN Geociencias Barcelona-CSIC
-Department: Environmental Geology and Geohazards
-Research Group: Environmental Changes in the Geological Record
-Practice, and elaboration of the final degree project. Related to a multidisciplinary project in Deception Iceland, the final
-project was to integrate optical multispectral data and sampling data gathered on the island.
 
-06/2016 – 08/2016 – Reykjavík, Iceland
-UNIVERSITY RESEARCH ASSISTANT – UNIVERSITY OF ICELAND - HÁSKÓLI ÍSLANDS
-Research Group: Volcanology
-Faculty of Earth Science
-Technical collaboration in remote sensing research. Working with the GPS points position taken on the monitoring of the fissure lava eruption of the Bárðarbunga which took place in 2014.
+
 
 
 
