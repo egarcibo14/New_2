@@ -89,6 +89,23 @@ Conditions. Remote Sens. 2021, 13, 3258. https://doi.org/10.3390/rs13163258
 
 ##############################################################
 
+library(leaflet)
+set.seed(12345)
+df <- data.frame(lat= runif(30, min = 19.07, max = 28.70), long=runif(30, min = 72.87, max = 77.10))
+head(df)
+##        lat     long
+## 1 26.01230 76.22442
+## 2 27.50370 72.89533
+## 3 26.39826 73.66402
+## 4 27.60338 75.75416
+## 5 23.46591 74.43554
+## 6 20.67216 74.39968
+df %>%
+  leaflet( width = 900) %>%
+  addTiles() %>%
+  addMarkers(clusterOptions = markerClusterOptions(), popup = "Hi")
+
+
 
 
 ## Screenshots
