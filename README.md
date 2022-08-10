@@ -9,7 +9,7 @@ layout: page
 # Copernicus Master in Digital Earth (EMJMD)
 
 ## Personal Motivation 
--	Curios sick learner
+-	Curios eager to learner
 -	Great program for professional skill development (summer schools, conferences, internship)
 -	International environment 
 -	Nature lover
@@ -25,24 +25,24 @@ layout: page
 	- Integration of remote sensing and in situ measurements. 
 	- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
 	- Do user friendly: maps and data bases
-	- Integrate extract more information of images (With all types of wavelengths Ex: optical, radar, lidar, thermal)
+	- Integrate extract more information of images (With all types of wavelengths e.g.: optical, radar, lidar, thermal)
 
 
 
 ## Background
 
 GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli Íslands
-- Degree in Geologi interested on Remote Sensing techniques.
+- Degree in Geology interested on Remote Sensing techniques.
 
 
-| Experience                      | Place                                                    |
+| Experience                      | Location                                                 |
 |---------------------------------|----------------------------------------------------------|
-| Junior InSAR Enginier           | Sixense Iberia, Dares Technology                         |
+| Junior InSAR Engineer           | Sixense Iberia, Dares Technology                         |
 | Junior Remote Sensing Geologist | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology |
 | Junior Geologist                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
 
 
-- Junior InSAR Enginier: 
+- Junior InSAR Engineer: 
 	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing and postprocessing. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
 	- Reporting of operational projects for customers. 
 
