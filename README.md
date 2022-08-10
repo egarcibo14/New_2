@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About"
 permalink: "/About me/"
 layout: page
 ---
@@ -35,11 +35,11 @@ GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli 
 - Degree in Geology interested on Remote Sensing techniques.
 
 
-| Experience                      | Location                                                 |
-|---------------------------------|----------------------------------------------------------|
-| Junior InSAR Engineer           | Sixense Iberia, Dares Technology                         |
-| Junior Remote Sensing Geologist | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology |
-| Junior Geologist                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica              |
+| Experience                      | Location                                                                  |
+|---------------------------------|---------------------------------------------------------------------------|
+| Junior InSAR Engineer           | Sixense Iberia, Dares Technology                                          |
+| Junior Remote Sensing Geologist | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology, Háskóli Íslands |
+| Junior Geologist                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica                               |
 
 
 - Junior InSAR Engineer: 
