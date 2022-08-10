@@ -106,7 +106,15 @@ df %>%
   addMarkers(clusterOptions = markerClusterOptions(), popup = "Hi")
 
 
-
+```{r out.width='100%', echo=FALSE}
+library(leaflet)
+leaflet() %>% addTiles() %>%
+  setView(-93.65, 42.0285, zoom = 17) %>%
+  addPopups(
+    -93.65, 42.0285,
+    'Here is the <b>Department of Statistics</b>, ISU'
+  )
+```
 
 ## Screenshots
 
