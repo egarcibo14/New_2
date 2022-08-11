@@ -28,7 +28,7 @@ layout: page
 	- Do user friendly: maps and data bases
 	- Integrate extract more information of images (With all types of wavelengths e.g.: optical, radar, lidar, thermal)
 
-
+![This is an image](/images/about.png) 
 
 ## Background
 
