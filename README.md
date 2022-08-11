@@ -8,6 +8,7 @@ layout: page
 
 # Copernicus Master in Digital Earth (EMJMD)
 
+![This is an image](/images/portada.png) 
 ## Personal Motivation 
 -	Curios eager to learner
 -	Great program for professional skill development (summer schools, conferences, internship)
