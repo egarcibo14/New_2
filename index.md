@@ -8,6 +8,9 @@ layout: page
 
 # Copernicus Master in Digital Earth (EMJMD)
 
+
+[Email](egarcibo14@gmail.com) • [Github](https://github.com/egarcibo14) • [LinkedIn](https://www.linkedin.com/in/egboadas/) • [CV](https://egarcibo14.github.io/webmaster/Emma.pdf) 
+
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
@@ -20,11 +23,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/egarcibo14"}
   - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/egboadas/"}
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
-plugins:
- - jekyll-feed
 
 ![This is an image](/images/portada.png) 
