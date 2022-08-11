@@ -6,7 +6,7 @@ layout: page
 
 ![This is an image](/images/ErasmusCopernicusLogo.png) 
 
-# Copernicus Master in Digital Earth (EMJMD)
+# Mail :envelope: egarcibo14@gmail.com 
 
 
 [Email](egarcibo14@gmail.com) • [Github](https://github.com/egarcibo14) • [LinkedIn](https://www.linkedin.com/in/egboadas/) • [CV](https://egarcibo14.github.io/webmaster/Emma.pdf) 
