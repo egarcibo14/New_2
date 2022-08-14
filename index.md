@@ -10,4 +10,3 @@ layout: page
 
 ![This is an image](/images/ErasmusCopernicusLogo.png) 
 
-![This is an image](/images/) 
